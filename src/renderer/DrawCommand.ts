@@ -1,0 +1,5 @@
+class DrawCommand
+{
+    meshID: number;
+
+}
