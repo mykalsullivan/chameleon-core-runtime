@@ -1,2 +1,2 @@
-# chameleon-runtime
-Runtime source for the Chameleon Game Engine 
+# Chameleon Engine Core
+Core runtime source for the Chameleon Game Engine 
